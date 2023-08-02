@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "minecraft:arrows"
+    },
+    "X": [
+      {
+        "item": "minecraft:torchflower"
+      }
+    ]
+  },
+  "pattern": [
+    "X",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "item": "torchflower_arrows:torchflower_arrow"
+  }
+}
